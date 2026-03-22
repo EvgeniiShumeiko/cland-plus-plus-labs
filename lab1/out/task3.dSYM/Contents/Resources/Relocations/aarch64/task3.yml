@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/snchz/URFU/Современные языки программирования/labs/lab1/out/task3"
+relocations:     []
+...
