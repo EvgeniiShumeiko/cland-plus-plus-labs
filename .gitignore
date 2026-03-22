@@ -1,0 +1,31 @@
+# Бинарные и временные файлы
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+*.bin
+*.class
+
+# Каталоги out на любом уровне вложенности
+out/
+**/out/
+
+# Конфигурационные и метаданные IDE
+.vscode/
+.idea/
+*.vcxproj*
+*.sln
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Логи
+*.log
